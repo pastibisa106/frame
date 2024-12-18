@@ -1,0 +1,30 @@
+{
+  "shortDescription": "Explore fun facts about animals in this quiz!",
+  "questions": [
+    {
+      "question": "What is the largest land animal?",
+      "answers": ["Elephant", "Rhino", "Tiger"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which bird can’t fly?",
+      "answers": ["Penguin", "Eagle", "Parrot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a baby goat called?",
+      "answers": ["Kid", "Cub", "Fawn"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What do pandas mostly eat?",
+      "answers": ["Bamboo", "Fruit", "Grass"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal is the fastest?",
+      "answers": ["Cheetah", "Horse", "Falcon"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
